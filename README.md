@@ -1,5 +1,3 @@
-# SiskelDev
-
 <h1 align="center">Hi there, this is SiskelDev</h1>
 <h3 align="center">I'm a Hobby programmer so i don't upload that much... maybe you find something useful?</h3>
 
