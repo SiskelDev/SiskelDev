@@ -2,6 +2,12 @@
 
 ## Hi there, this is SiskelDev
 ### I'm a Hobby programmer so i don't upload that much... maybe you find something useful?<br>Currently I'm mostly working on my own Websites that you can find down below. <br>The Repos for these projects are Privat so do not wonder why you can't see my commits.
+
+## 🌐 My Sites
+
+[![Furatalog.xyz](https://img.shields.io/badge/Furatalog.xyz-darkgreen?style=for-the-badge)](https://furatalog.xyz/)
+[![Siskel.Dev](https://img.shields.io/badge/Siskel.Dev-darkmagenta?style=for-the-badge)](https://siskel.dev/)
+
 ## 💬 Socials
 
 [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/SiskelDev)
